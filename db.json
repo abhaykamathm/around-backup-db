@@ -1,0 +1,1942 @@
+{
+  "around_fuelData": [
+    {
+      "name": "Fastrip",
+      "address": "2200, Niles St Bakersfield, CA-93306",
+      "state": "California",
+      "country": "USA",
+      "phone": "(661) 872-6519",
+      "hours": "24",
+      "comment": 10,
+      "latitude": 35.37655,
+      "longitude": -118.96679,
+      "open": true,
+      "timing": "Open 24 hours",
+      "ratings": 4.9,
+      "payment_mode": "Cash",
+      "logo_url": "/images/fastripLogo2.jpg",
+      "products": [
+        {
+          "product_name": "Diesel",
+          "cash_price": 6.4,
+          "credit_card_price": 6.5,
+          "grade": "D"
+        },
+        {
+          "product_name": "Midgrade",
+          "cash_price": 4.9,
+          "credit_card_price": 5.0,
+          "grade": 87
+        },
+        {
+          "product_name": "Regular",
+          "cash_price": 4.7,
+          "credit_card_price": 4.8,
+          "grade": 90
+        },
+        {
+          "product_name": "Premium",
+          "cash_price": 5.1,
+          "credit_card_price": 5.2,
+          "grade": 91
+        }
+      ]
+    },
+    {
+      "name": "Chevron",
+      "address": "1131 Oak St, Bakersfield, CA-93304",
+      "state": "California",
+      "country": "USA",
+      "phone": "+1 661-324-7621",
+      "hours": "24",
+      "comment": 16,
+      "latitude": 35.368191,
+      "longitude": -119.039124,
+      "open": true,
+      "timing": "Open 24 hours",
+      "ratings": 3.2,
+      "payment_mode": "Cash",
+      "logo_url": "https://s3-alpha-sig.figma.com/img/ba20/8129/38f7199c59934f8bd09e2cbe30fa9342?Expires=1715558400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Nf79-uv54XLMrQJm-rQ8T0Uob6pSIzWdN5djwREoBgyLIyYu88hpynmlCm7WGQhlf34upX~RFqsNuWOYcClW7GVSzupTOoPxzLR5K5pur-zoPz7OpMB7cWFMJ0ZpmDy0aiILlwb49zYYqx7Qo1lYq~QX5zcc7uwwASBGtS3FpCWw-npjjEvRt3nF3X69dBRLVzEI4mhfQ1vUE0~Xwgm1z~bP2aXD6-dHjx4xzAcKq6SkZtQAi2PyQtm6bRGRFy6XYU0vr327VcRLtL~741rlXXqGxfgYWsIYAhCMpmeV6CxX6nQX2dE5L3Iz1nRJTrIyDo2jB0BUn96cNFbhbB3b9Q__",
+      "products": [
+        {
+          "product_name": "Diesel",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": "D"
+        },
+        {
+          "product_name": "Midgrade",
+          "cash_price": 5.7,
+          "credit_card_price": 5.8,
+          "grade": 87
+        },
+        {
+          "product_name": "Regular",
+          "cash_price": 5.3,
+          "credit_card_price": 5.4,
+          "grade": 90
+        },
+        {
+          "product_name": "Premium",
+          "cash_price": 5.9,
+          "credit_card_price": 6.0,
+          "grade": 91
+        }
+      ]
+    },
+    {
+      "name": "Chevron Bakersfield",
+      "address": "11101 CA-178, Bakersfield, CA 93306",
+      "state": "California",
+      "country": "USA",
+      "phone": "+1 661-366-4886",
+      "hours": "24",
+      "comment": 225,
+      "latitude": 35.39804,
+      "longitude": -118.87999,
+      "open": true,
+      "timing": "Open 24 hours",
+      "ratings": 4.1,
+      "payment_mode": "Cash",
+      "logo_url": "https://s3-alpha-sig.figma.com/img/ba20/8129/38f7199c59934f8bd09e2cbe30fa9342?Expires=1715558400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Nf79-uv54XLMrQJm-rQ8T0Uob6pSIzWdN5djwREoBgyLIyYu88hpynmlCm7WGQhlf34upX~RFqsNuWOYcClW7GVSzupTOoPxzLR5K5pur-zoPz7OpMB7cWFMJ0ZpmDy0aiILlwb49zYYqx7Qo1lYq~QX5zcc7uwwASBGtS3FpCWw-npjjEvRt3nF3X69dBRLVzEI4mhfQ1vUE0~Xwgm1z~bP2aXD6-dHjx4xzAcKq6SkZtQAi2PyQtm6bRGRFy6XYU0vr327VcRLtL~741rlXXqGxfgYWsIYAhCMpmeV6CxX6nQX2dE5L3Iz1nRJTrIyDo2jB0BUn96cNFbhbB3b9Q__",
+      "products": [
+        {
+          "product_name": "Diesel",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "D"
+        },
+        {
+          "product_name": "Midgrade",
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 87
+        },
+        {
+          "product_name": "Regular",
+          "cash_price": 5.4,
+          "credit_card_price": 5.5,
+          "grade": 90
+        },
+        {
+          "product_name": "Premium",
+          "cash_price": 5.8,
+          "credit_card_price": 6.0,
+          "grade": 91
+        }
+      ]
+    },
+    {
+      "name": "ARCO",
+      "address": "3125 CA Ave, Bakersfield, CA-93304",
+      "state": "California",
+      "country": "USA",
+      "phone": "+1 661-634-0150",
+      "hours": "24",
+      "comment": 359,
+      "latitude": 35.3682,
+      "longitude": -119.0384,
+      "open": true,
+      "timing": "Open 24 hours",
+      "ratings": 4.0,
+      "payment_mode": "Cash",
+      "logo_url": "https://s3-alpha-sig.figma.com/img/14d5/4bae/5f7ce056df6ed741866e25cc0e2cba21?Expires=1715558400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=BXehxRChYwgS2tVrt6YlDAr~sCtE1I8pzEWaVoI1UAq6RdpBxP-epZtLTWnj8k7p2fx2CQIWMBEkhSugmxVHAM-k9OibYc7Hzl5jTUlG6yh99gp48k77TSRmbHR6THiCz6UyhmBXUpDq-~LCNnHHB1XFqg5IWWuAljjmIs1SDsDlYczRAMpgKIjQ8ywYrqT1wkEI03oU5Qa8cf7pMpyhaw~Oy661lJNrNlaChy24axxTwd1Atl6eRfGtlNHjn6lQidPfWyNggxfS47YUMey-jNh~eODRFt7sd5bJPB02lPflWxvWOGGgCbscgXmYmk54lqnFjC178a77zcshBhx1hA__",
+      "products": [
+        {
+          "product_name": "Diesel",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "D"
+        },
+        {
+          "product_name": "Midgrade",
+          "cash_price": 5.4,
+          "credit_card_price": 5.5,
+          "grade": 87
+        },
+        {
+          "product_name": "Regular",
+          "cash_price": 5.2,
+          "credit_card_price": 5.3,
+          "grade": 90
+        },
+        {
+          "product_name": "Premium",
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 91
+        }
+      ]
+    },
+    {
+      "name": "ARCO",
+      "address": "6450 White Ln, Bakersfield, CA-93309",
+      "state": "California",
+      "country": "USA",
+      "phone": "+1 661-398-0393",
+      "hours": "24",
+      "comment": 162,
+      "latitude": 35.32811,
+      "longitude": -119.07588,
+      "open": true,
+      "timing": "Open 24 hours",
+      "ratings": 4.1,
+      "payment_mode": "Cash",
+      "logo_url": "https://s3-alpha-sig.figma.com/img/14d5/4bae/5f7ce056df6ed741866e25cc0e2cba21?Expires=1715558400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=BXehxRChYwgS2tVrt6YlDAr~sCtE1I8pzEWaVoI1UAq6RdpBxP-epZtLTWnj8k7p2fx2CQIWMBEkhSugmxVHAM-k9OibYc7Hzl5jTUlG6yh99gp48k77TSRmbHR6THiCz6UyhmBXUpDq-~LCNnHHB1XFqg5IWWuAljjmIs1SDsDlYczRAMpgKIjQ8ywYrqT1wkEI03oU5Qa8cf7pMpyhaw~Oy661lJNrNlaChy24axxTwd1Atl6eRfGtlNHjn6lQidPfWyNggxfS47YUMey-jNh~eODRFt7sd5bJPB02lPflWxvWOGGgCbscgXmYmk54lqnFjC178a77zcshBhx1hA__",
+      "products": [
+        {
+          "product_name": "Diesel",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "D"
+        },
+        {
+          "product_name": "Midgrade",
+          "cash_price": 5.4,
+          "credit_card_price": 5.5,
+          "grade": 87
+        },
+        {
+          "product_name": "Regular",
+          "cash_price": 5.2,
+          "credit_card_price": 5.3,
+          "grade": 90
+        },
+        {
+          "product_name": "Premium",
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 91
+        }
+      ]
+    },
+    {
+      "name": "ARCO",
+      "address": " 3220 Ming, Bakersfield, CA-93304",
+      "state": "California",
+      "country": "USA",
+      "phone": "+1 661-398-0303",
+      "hours": "24",
+      "comment": 203,
+      "latitude": 35.34377,
+      "longitude": -119.03726,
+      "open": true,
+      "timing": "Open 24 hours",
+      "ratings": 3.9,
+      "payment_mode": "Cash",
+      "logo_url": "https://s3-alpha-sig.figma.com/img/14d5/4bae/5f7ce056df6ed741866e25cc0e2cba21?Expires=1715558400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=BXehxRChYwgS2tVrt6YlDAr~sCtE1I8pzEWaVoI1UAq6RdpBxP-epZtLTWnj8k7p2fx2CQIWMBEkhSugmxVHAM-k9OibYc7Hzl5jTUlG6yh99gp48k77TSRmbHR6THiCz6UyhmBXUpDq-~LCNnHHB1XFqg5IWWuAljjmIs1SDsDlYczRAMpgKIjQ8ywYrqT1wkEI03oU5Qa8cf7pMpyhaw~Oy661lJNrNlaChy24axxTwd1Atl6eRfGtlNHjn6lQidPfWyNggxfS47YUMey-jNh~eODRFt7sd5bJPB02lPflWxvWOGGgCbscgXmYmk54lqnFjC178a77zcshBhx1hA__",
+      "products": [
+        {
+          "product_name": "Diesel",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "D"
+        },
+        {
+          "product_name": "Regular",
+          "cash_price": 5.0,
+          "credit_card_price": 5.1,
+          "grade": 90
+        },
+        {
+          "product_name": "Midgrade",
+          "cash_price": 5.5,
+          "credit_card_price": 5.6,
+          "grade": 87
+        },
+        {
+          "product_name": "Premium",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 91
+        }
+      ]
+    },
+    {
+      "name": "ARCO",
+      "address": "4203 Ming, Bakersfield, CA-93309",
+      "state": "California",
+      "country": "USA",
+      "phone": "+1 661-831-7309",
+      "hours": "24",
+      "comment": 166,
+      "latitude": 35.34292,
+      "longitude": -119.04978,
+      "open": true,
+      "timing": "Open 24 hours",
+      "ratings": 4.0,
+      "payment_mode": "Cash",
+      "logo_url": "https://s3-alpha-sig.figma.com/img/14d5/4bae/5f7ce056df6ed741866e25cc0e2cba21?Expires=1715558400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=BXehxRChYwgS2tVrt6YlDAr~sCtE1I8pzEWaVoI1UAq6RdpBxP-epZtLTWnj8k7p2fx2CQIWMBEkhSugmxVHAM-k9OibYc7Hzl5jTUlG6yh99gp48k77TSRmbHR6THiCz6UyhmBXUpDq-~LCNnHHB1XFqg5IWWuAljjmIs1SDsDlYczRAMpgKIjQ8ywYrqT1wkEI03oU5Qa8cf7pMpyhaw~Oy661lJNrNlaChy24axxTwd1Atl6eRfGtlNHjn6lQidPfWyNggxfS47YUMey-jNh~eODRFt7sd5bJPB02lPflWxvWOGGgCbscgXmYmk54lqnFjC178a77zcshBhx1hA__",
+      "products": [
+        {
+          "product_name": "Diesel",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "D"
+        },
+        {
+          "product_name": "Regular",
+          "cash_price": 5.2,
+          "credit_card_price": 5.3,
+          "grade": 90
+        },
+        {
+          "product_name": "Midgrade",
+          "cash_price": 5.5,
+          "credit_card_price": 5.6,
+          "grade": 87
+        },
+        {
+          "product_name": "Premium",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 91
+        }
+      ]
+    },
+    {
+      "name": "Shell",
+      "address": "4815 Panama, Bakersfield, CA-93313",
+      "state": "California",
+      "country": "USA",
+      "phone": "+1 661-412-4956",
+      "hours": "24",
+      "comment": 77,
+      "latitude": 35.29973,
+      "longitude": -119.05551,
+      "open": true,
+      "timing": "Open 24 hours",
+      "ratings": 3.8,
+      "payment_mode": "Cash",
+      "logo_url": "https://s3-alpha-sig.figma.com/img/f598/eeb1/60152c7ebd3213dd2cdd1735f6f1b4fb?Expires=1715558400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KznblPLl0hR81Qh-gl3D7aZKOTGJDRcAUbPi4W6d7vZPX9cBppXjJaopXSxnswjIpuHOcsqoXFR7J89rRR3WahAjZit-MLzvdyBakaDftXdUxU9UAipKJ4sRiBhXGQ0P2E9bcd0g4ZggxzDbfJIghNOHN-iwyD6wkH4sYoKHbQ7BBallUjvsYSkoORv6l3K4VFOn0NTvXDp-RAJu~fV~6nDi7ZP3nGd5hmCM-huFEsvSfuPx9JivBRZ4XNJMcovnuxONmwEz0Mxp0CWw2hErUzlUxOAA4hsGcilaNhPcUmLNiA4wMivmBm5E2xktFygs9xN~TIaCOOMSMmfff6C0-w__",
+      "products": [
+        {
+          "product_name": "Diesel",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "D"
+        },
+        {
+          "product_name": "Regular",
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 90
+        },
+        {
+          "product_name": "Midgrade",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 87
+        },
+        {
+          "product_name": "Premium",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 91
+        }
+      ]
+    },
+    {
+      "name": "Shell",
+      "address": "4050 Gosford, Bakersfield, CA-93309",
+      "state": "California",
+      "country": "USA",
+      "phone": "+1 661-833-4002",
+      "hours": "24",
+      "comment": 23,
+      "latitude": 35.3223,
+      "longitude": -119.09199,
+      "open": true,
+      "timing": "Open 24 hours",
+      "ratings": 3.1,
+      "payment_mode": "Cash",
+      "logo_url": "https://s3-alpha-sig.figma.com/img/f598/eeb1/60152c7ebd3213dd2cdd1735f6f1b4fb?Expires=1715558400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KznblPLl0hR81Qh-gl3D7aZKOTGJDRcAUbPi4W6d7vZPX9cBppXjJaopXSxnswjIpuHOcsqoXFR7J89rRR3WahAjZit-MLzvdyBakaDftXdUxU9UAipKJ4sRiBhXGQ0P2E9bcd0g4ZggxzDbfJIghNOHN-iwyD6wkH4sYoKHbQ7BBallUjvsYSkoORv6l3K4VFOn0NTvXDp-RAJu~fV~6nDi7ZP3nGd5hmCM-huFEsvSfuPx9JivBRZ4XNJMcovnuxONmwEz0Mxp0CWw2hErUzlUxOAA4hsGcilaNhPcUmLNiA4wMivmBm5E2xktFygs9xN~TIaCOOMSMmfff6C0-w__",
+      "products": [
+        {
+          "product_name": "Diesel",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "D"
+        },
+        {
+          "product_name": "Regular",
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 90
+        },
+        {
+          "product_name": "Midgrade",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 87
+        },
+        {
+          "product_name": "Premium",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 91
+        }
+      ]
+    },
+    {
+      "name": "Shell",
+      "address": "5300 Olive Dr, Bakersfield, CA-93308",
+      "state": "California",
+      "country": "USA",
+      "phone": "+1 661-399-8889",
+      "hours": "24",
+      "comment": 52,
+      "latitude": 35.41767,
+      "longitude": -119.05983,
+      "open": true,
+      "timing": "Open 24 hours",
+      "ratings": 3.8,
+      "payment_mode": "Cash",
+      "logo_url": "https://s3-alpha-sig.figma.com/img/f598/eeb1/60152c7ebd3213dd2cdd1735f6f1b4fb?Expires=1715558400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KznblPLl0hR81Qh-gl3D7aZKOTGJDRcAUbPi4W6d7vZPX9cBppXjJaopXSxnswjIpuHOcsqoXFR7J89rRR3WahAjZit-MLzvdyBakaDftXdUxU9UAipKJ4sRiBhXGQ0P2E9bcd0g4ZggxzDbfJIghNOHN-iwyD6wkH4sYoKHbQ7BBallUjvsYSkoORv6l3K4VFOn0NTvXDp-RAJu~fV~6nDi7ZP3nGd5hmCM-huFEsvSfuPx9JivBRZ4XNJMcovnuxONmwEz0Mxp0CWw2hErUzlUxOAA4hsGcilaNhPcUmLNiA4wMivmBm5E2xktFygs9xN~TIaCOOMSMmfff6C0-w__",
+      "products": [
+        {
+          "product_name": "Diesel",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "D"
+        },
+        {
+          "product_name": "Regular",
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 90
+        },
+        {
+          "product_name": "Midgrade",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 87
+        },
+        {
+          "product_name": "Premium",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 91
+        }
+      ]
+    }
+  ],
+  "around_eventsData": [
+    {
+      "name": "Marisela",
+      "street": "1001 Truxtn Ave",
+      "city": "Bakersfield",
+      "state": "California",
+      "state_code": "CA",
+      "zip_code": "93301",
+      "country": "USA",
+      "phone": "(234) 567-8901",
+      "latitude": 35.484192,
+      "longitude": -119.020699,
+      "rating": 4.6,
+      "ratings_number": 116,
+      "open": true,
+      "seats_available": 30,
+      "description": "Witness one of the most beloved stars born from Latin music",
+      "event_days": "Monday",
+      "event_start_date": "2024-02-17",
+      "event_end_date": "2024-02-27",
+      "event_start_time": "09:00",
+      "event_end_time": "17:00",
+      "icon_url": "/svgs/CardGame.svg",
+      "event_price": 49.99
+    },
+    {
+      "name": "Nate Smith",
+      "street": "2800 Buck Owens Blvd",
+      "city": "Bakersfield",
+      "state": "California",
+      "state_code": "CA",
+      "zip_code": "93301",
+      "country": "USA",
+      "phone": "(567) 890-1234",
+      "latitude": 35.5751,
+      "longitude": -119.964699,
+      "rating": 4.2,
+      "ratings_number": 116,
+      "open": false,
+      "seats_available": 40,
+      "description": "Join a high-intensity fitness bootcamp for a healthy workout.",
+      "event_days": "Wednesday",
+      "event_start_date": "2024-03-17",
+      "event_end_date": "2024-03-20",
+      "event_start_time": "16:00",
+      "event_end_time": "18:00",
+      "icon_url": "/svgs/CoffeeToGo.svg",
+      "event_price": 19.99
+    },
+    {
+      "name": "Peking Acrobats",
+      "street": "2001 H Street",
+      "city": "Bakersfield",
+      "state": "California",
+      "state_code": "CA",
+      "zip_code": "93301",
+      "country": "USA",
+      "phone": "(987) 654-3210",
+      "latitude": 35.654102,
+      "longitude": -119.020699,
+      "rating": 4.8,
+      "ratings_number": 116,
+      "seats_available": 50,
+      "open": true,
+      "description": "Immerse yourself in a world of creativity at this art exhibition.",
+      "event_days": "Friday",
+      "event_start_date": "2024-02-20",
+      "event_end_date": "2024-02-28",
+      "event_start_time": "12:00",
+      "event_end_time": "20:00",
+      "icon_url": "/svgs/HatRetro.svg",
+      "event_price": 15.99
+    },
+    {
+      "name": "Los Lonely Boys",
+      "street": "2001 H Street",
+      "city": "Bakersfield",
+      "state": "California",
+      "state_code": "CA",
+      "zip_code": "93301",
+      "country": "USA",
+      "phone": "(987) 654-3210",
+      "latitude": 35.584109,
+      "longitude": -119.020699,
+      "rating": 4.5,
+      "ratings_number": 116,
+      "seats_available": 25,
+      "open": true,
+      "description": "Savor the flavors of diverse cuisines at this delightful food festival.",
+      "event_days": "Saturday",
+      "event_start_date": "2024-03-22",
+      "event_end_date": "2024-03-28",
+      "event_start_time": "11:00",
+      "event_end_time": "19:00",
+      "icon_url": "/svgs/MicrophoneStage.svg",
+      "event_price": 25.5
+    },
+    {
+      "name": "Bert Kreischer",
+      "street": "1001 Tructun Ave",
+      "city": "Bakersfield",
+      "state": "California",
+      "state_code": "CA",
+      "zip_code": "93301",
+      "country": "USA",
+      "phone": "(612) 9876-5432",
+      "latitude": 35.384102,
+      "longitude": -119.020699,
+      "rating": 4.3,
+      "ratings_number": 116,
+      "seats_available": 35,
+      "open": false,
+      "description": "Enjoy a cinematic experience under the stars at this outdoor movie night.",
+      "event_days": "Sunday",
+      "event_start_date": "2024-02-26",
+      "event_end_date": "2024-02-29",
+      "event_start_time": "20:00",
+      "event_end_time": "23:00",
+      "icon_url": "/svgs/NightClub.svg",
+      "event_price": 12.5
+    },
+    {
+      "name": "Matamoska",
+      "street": "3200 Buck Owens Blvd",
+      "city": "Bakersfield",
+      "state": "California",
+      "state_code": "CA",
+      "zip_code": "93301",
+      "country": "USA",
+      "phone": "(408) 765-4321",
+      "latitude": 35.399499,
+      "longitude": -119.0429,
+      "rating": 4.3,
+      "ratings_number": 116,
+      "open": true,
+      "seats_available": 10,
+      "description": "Enhance your tech skills at this hands-on technology workshop.",
+      "event_days": "Thursday",
+      "event_start_date": "2024-02-19",
+      "event_end_date": "2024-01-29",
+      "event_start_time": "14:00",
+      "event_end_time": "18:00",
+      "icon_url": "/svgs/MusicConcert.svg",
+      "event_price": 34.99
+    },
+    {
+      "name": "Phora",
+      "street": "2800 Buck Owens Blvd",
+      "city": "Bakersfield",
+      "state": "California",
+      "state_code": "CA",
+      "zip_code": "93301",
+      "country": "USA",
+      "phone": "(331) 2345-6789",
+      "latitude": 35.311555,
+      "longitude": -119.0429,
+      "rating": 4.7,
+      "ratings_number": 80,
+      "seats_available": 40,
+      "open": true,
+      "description": "Connect with nature on a scenic hike through beautiful trails.",
+      "event_days": "Saturday",
+      "event_start_date": "2024-02-26",
+      "event_end_date": "2024-02-28",
+      "event_start_time": "09:00",
+      "event_end_time": "12:00",
+      "icon_url": "/svgs/Pornography.svg",
+      "event_price": 15.0
+    },
+    {
+      "name": "Diggin Dirt",
+      "street": "1001 Tructun Ave",
+      "city": "Bakersfield",
+      "state": "California",
+      "state_code": "CA",
+      "zip_code": "93301",
+      "country": "USA",
+      "phone": "(552) 8765-4321",
+      "latitude": 35.159455,
+      "longitude": -119.0429,
+      "rating": 4.9,
+      "ratings_number": 90,
+      "seats_available": 45,
+      "open": false,
+      "description": "Witness the latest trends at this glamorous fashion show.",
+      "event_days": "Friday",
+      "event_start_date": "2024-03-01",
+      "event_end_date": "2024-03-07",
+      "event_start_time": "18:00",
+      "event_end_time": "22:00",
+      "icon_url": "/svgs/CardGame.svg",
+      "event_price": 29.99
+    },
+    {
+      "name": "Chris Distefano",
+      "street": "2001 H Street",
+      "city": "Bakersfield",
+      "state": "California",
+      "state_code": "CA",
+      "zip_code": "93301",
+      "country": "USA",
+      "phone": "(749) 123-4567",
+      "latitude": 35.4123,
+      "longitude": -119.020699,
+      "rating": 4.5,
+      "ratings_number": 230,
+      "seats_available": 60,
+      "open": true,
+      "description": "Discover the wonders of science at this interactive science fair.",
+      "event_days": "Sunday",
+      "event_start_date": "2024-02-21",
+      "event_end_date": "2024-02-26",
+      "event_start_time": "10:00",
+      "event_end_time": "16:00",
+      "icon_url": "/svgs/CoffeeToGo.svg",
+      "event_price": 19.99
+    },
+    {
+      "name": "Gastronomy Tour",
+      "street": "2001 H Street",
+      "city": "Las Vegas",
+      "state": "California",
+      "state_code": "CA",
+      "zip_code": "93301",
+      "country": "USA",
+      "phone": "+54-11-9876-5432",
+      "latitude": 35.1078,
+      "longitude": -119.1741,
+      "rating": 4.4,
+      "ratings_number": 80,
+      "open": false,
+      "seats_available": 38,
+      "description": "Embark on a culinary journey with a guided gastronomy tour.",
+      "event_days": "Saturday",
+      "event_start_date": "2023-03-24",
+      "event_end_date": "2024-03-26",
+      "event_start_time": "13:00",
+      "event_end_time": "17:00",
+      "icon_url": "/svgs/MicrophoneStage.svg",
+      "event_price": 39.99
+    }
+  ],
+  "around_crimeData": [
+    {
+      "id": "#258124681",
+      "latitude": 35.45663,
+      "longitude": -119.05043,
+      "street": "560 Block Q",
+      "city": "Bakersfield",
+      "state": "California",
+      "state_code": "CA",
+      "zip_code": "93301",
+      "country": "USA",
+      "name": "Robbery",
+      "icon_url": "/svgs/Robbery.svg",
+      "price": "Robbery $950.01 & over",
+      "date": "Oct 19, 2023",
+      "time": "7:00PM"
+    },
+    {
+      "id": "#258024181",
+      "latitude": 35.4508,
+      "longitude": -119.28481,
+      "street": "365 Block P",
+      "city": "Bakersfield",
+      "state": "California",
+      "state_code": "CA",
+      "zip_code": "93301",
+      "country": "USA",
+      "name": "Agg Assaults",
+      "icon_url": "/svgs/AggAssault.svg",
+      "price": "Agg Assaults$440.01 & over",
+      "date": "May 01, 2023",
+      "time": "6:00PM"
+    },
+    {
+      "id": "#278124181",
+      "latitude": 35.73886,
+      "longitude": -119.79552,
+      "street": "150 Block X",
+      "city": "Bakersfield",
+      "state": "California",
+      "state_code": "CA",
+      "zip_code": "93301",
+      "country": "USA",
+      "name": "Theft",
+      "icon_url": "/svgs/Officers.svg",
+      "price": "Theft$355.09 & over",
+      "date": "Dec 15, 2023",
+      "time": "3:00AM"
+    },
+    {
+      "id": "#258164181",
+      "latitude": 35.87983,
+      "longitude": -118.74893,
+      "street": "555 Block S",
+      "city": "Bakersfield",
+      "state": "California",
+      "state_code": "CA",
+      "zip_code": "93301",
+      "country": "USA",
+      "name": "VUFA Arrests",
+      "icon_url": "/svgs/VUFA.svg",
+      "price": "VUFA Arrests  $880.05 & over",
+      "date": "Mar 06 , 2023",
+      "time": "10:00AM"
+    },
+    {
+      "id": "#258124181",
+      "latitude": 35.1645,
+      "longitude": -119.63345,
+      "street": "200 Block R",
+      "city": "Bakersfield",
+      "state": "California",
+      "state_code": "CA",
+      "zip_code": "93301",
+      "country": "USA",
+      "name": "VUFA Arrests",
+      "icon_url": "/svgs/VUFA.svg",
+      "price": "VUFA Arrests $880.01 & over",
+      "date": "May 08, 2023",
+      "time": "5:30PM"
+    },
+    {
+      "id": "#253124181",
+      "latitude": 35.484192,
+      "longitude": -119.020699,
+      "street": "950 Block M",
+      "city": "Bakersfield",
+      "state": "California",
+      "state_code": "CA",
+      "zip_code": "93301",
+      "country": "USA",
+      "name": "Agg Assaults",
+      "icon_url": "/svgs/AggAssault.svg",
+      "price": "Agg Assaults $550.01 & over",
+      "date": "Apr 06, 2023",
+      "time": "11:30AM"
+    },
+    {
+      "id": "#233124181",
+      "latitude": 35.5751,
+      "longitude": -119.964699,
+      "street": "500 Block Q",
+      "city": "Bakersfield",
+      "state": "California",
+      "state_code": "CA",
+      "zip_code": "93301",
+      "country": "USA",
+      "name": "Robbery",
+      "icon_url": "/svgs/Robbery.svg",
+      "price": "Robbery $950.01 & over",
+      "date": "Nov 19, 2023",
+      "time": "8:00PM"
+    },
+    {
+      "latitude": "35.393528",
+      "longitude": "-119.043732",
+      "id": "#230124991",
+      "street": "200 Block R",
+      "city": "Bakersfield",
+      "state": "California",
+      "state_code": "CA",
+      "zip_code": "93301",
+      "country": "USA",
+      "name": "VUFA Arrests",
+      "icon_url": "/svgs/VUFA.svg",
+      "price": "VUFA Arrests $680.01 & over",
+      "date": "Feb 08, 2023",
+      "time": "1:00PM"
+    },
+    {
+      "latitude": 35.393528,
+      "longitude": -119.053732,
+      "id": "#230124681",
+      "street": "300 Block S",
+      "city": "Bakersfield",
+      "state": "California",
+      "state_code": "CA",
+      "zip_code": "93301",
+      "country": "USA",
+      "name": "Robbery",
+      "icon_url": "/svgs/Robbery.svg",
+      "price": "Robbery $940.01 & over",
+      "date": "May 26, 2023",
+      "time": "7:00PM"
+    }
+  ],
+  "around_earthquakeData": [
+    {
+      "id": "1",
+      "location": "M 3.7-6km SE of Oildale,CA",
+      "date": "Dec 14, 2023",
+      "state": "California",
+      "state_code": "CA",
+      "country": "USA",
+      "latitude": 35.385,
+      "longitude": -118.965,
+      "earthquake_time": "2024-02-20T12:00:00Z",
+      "coordinates": "35.385°N 118.965°W",
+      "depth": "Depth(km)-7.2",
+      "count": "Count-23,456",
+      "magnitude": 5.8
+    },
+    {
+      "id": "2",
+      "location": "M 3.1-10km SSW of Rosedale,CA",
+      "date": "Dec 15, 2023",
+      "coordinates": "35.310°N 119.205°W",
+      "latitude": 35.31,
+      "longitude": -119.205,
+      "state": "California",
+      "state_code": "CA",
+      "country": "USA",
+      "earthquake_time": "2024-02-20T10:00:00Z",
+      "depth": "Depth(km)-5.1",
+      "count": "Count-12,345",
+      "magnitude": 4.2
+    },
+    {
+      "id": "3",
+      "location": "M 2.9-13km SSW of Rosedale,CA",
+      "date": "Dec 14, 2023",
+      "coordinates": "35.271°N 119.179°W",
+      "latitude": 35.271,
+      "longitude": -119.179,
+      "state": "California",
+      "state_code": "CA",
+      "country": "USA",
+      "earthquake_time": "2024-02-20T11:00:00Z",
+      "depth": "Depth(km)-8.9",
+      "count": "Count-34,567",
+      "magnitude": 6.5
+    },
+    {
+      "id": "4",
+      "location": "M 3.1-11km SW of Lamont,CA",
+      "date": "Dec 15, 2023",
+      "coordinates": "35.184°N 118.988°W",
+      "latitude": 35.184,
+      "longitude": -118.988,
+      "state": "California",
+      "state_code": "CA",
+      "country": "USA",
+      "earthquake_time": "2024-02-18T11:00:00Z",
+      "depth": "Depth(km)-6.4",
+      "count": "Count-18,765",
+      "magnitude": 3.9
+    },
+    {
+      "id": "5",
+      "location": "M 3.4-19 km SW of Lamont,CA",
+      "date": "Dec 14, 2023",
+      "coordinates": "35.117°N 119.034°W",
+      "latitude": 35.117,
+      "longitude": -119.034,
+      "state": "California",
+      "state_code": "CA",
+      "country": "USA",
+      "earthquake_time": "2024-02-21T14:00:00Z",
+      "depth": "Depth(km)-9.2",
+      "count": "Count-45,678",
+      "magnitude": 7.2
+    },
+    {
+      "id": "6",
+      "location": "M 3.1-19km SSW of Lamont,CA",
+      "date": "Dec 15, 2023",
+      "coordinates": "35.108°N 119.007°W",
+      "state": "California",
+      "state_code": "CA",
+      "country": "USA",
+      "latitude": 35.108,
+      "longitude": -119.007,
+      "earthquake_time": "2024-02-21T15:00:00Z",
+      "depth": "Depth(km)-5.8",
+      "count": "Count-21,234",
+      "magnitude": 4.7
+    },
+    {
+      "id": "7",
+      "location": "M 3.1-14km E of Arvin,CA",
+      "date": "Dec 14, 2023",
+      "coordinates": "35.204°N 118.672°W",
+      "latitude": 35.108,
+      "longitude": -119.007,
+      "state": "California",
+      "state_code": "CA",
+      "country": "USA",
+      "earthquake_time": "2024-02-21T23:00:00Z",
+      "depth": "Depth(km)-7.6",
+      "count": "Count-32,109",
+      "magnitude": 5.1
+    },
+    {
+      "id": "8",
+      "location": "6km S of Rabobank Arena,CA",
+      "date": "Dec 14, 2023",
+      "coordinates": "31.598° N 103.227° W",
+      "latitude": 31.598,
+      "longitude": -103.227,
+      "state": "California",
+      "state_code": "CA",
+      "country": "USA",
+      "earthquake_time": "2024-02-20T12:00:00Z",
+      "depth": "Depth(km)-6.1",
+      "count": "Count-28,543",
+      "magnitude": 6.8
+    },
+    {
+      "id": "9",
+      "location": "6km SE Downtown Bakersfield,CA",
+      "date": "Dec 14, 2023",
+      "coordinates": "47.353° N 93.365° W",
+      "latitude": 47.353,
+      "longitude": -93.365,
+      "state": "California",
+      "state_code": "CA",
+      "country": "USA",
+      "earthquake_time": "2024-02-19T12:00:00Z",
+      "depth": "Depth(km)-5.5",
+      "count": "Count-14,567",
+      "magnitude": 4.4
+    },
+    {
+      "id": "10",
+      "location": "15km SW of River Walk Park,CA",
+      "date": "Dec 09, 2023",
+      "coordinates": "47.353° N 81.637° W",
+      "latitude": 47.353,
+      "longitude": -81.637,
+      "state": "California",
+      "state_code": "CA",
+      "country": "USA",
+      "earthquake_time": "2024-02-21T12:00:00Z",
+      "depth": "Depth(km)-6.9",
+      "count": "Count-19,876",
+      "magnitude": 5.5
+    }
+  ],
+  "around_unemploymentData": [
+    {
+      "id": "1",
+      "city": "Santa Rose",
+      "state": "California",
+      "state_code": "CA",
+      "country": "USA",
+      "unemployment_rate": "3.8%",
+      "latitude": "38.444660",
+      "longitude": "-122.720306"
+    },
+    {
+      "id": "2",
+      "city": "Bakersfield",
+      "state": "California",
+      "state_code": "CA",
+      "country": "USA",
+      "unemployment_rate": "8.7%",
+      "latitude": "35.393528",
+      "longitude": "-119.043732"
+    },
+    {
+      "id": "3",
+      "city": "Los Angeles",
+      "state": "California",
+      "state_code": "CA",
+      "country": "USA",
+      "unemployment_rate": "4.7%",
+      "latitude": "34.052235 ",
+      "longitude": "-118.243683"
+    },
+    {
+      "id": "4",
+      "city": "Chico",
+      "state": "California",
+      "state_code": "CA",
+      "country": "USA",
+      "unemployment_rate": "5.7%",
+      "latitude": "39.728493 ",
+      "longitude": "-121.837479"
+    },
+    {
+      "id": "5",
+      "city": "Santa Cruz-Watsonvile",
+      "state": "California",
+      "state_code": "CA",
+      "country": "USA",
+      "unemployment_rate": "6.6%",
+      "latitude": "36.974117",
+      "longitude": "-122.030792"
+    },
+    {
+      "id": "6",
+      "city": "Modesto",
+      "state": "California",
+      "state_code": "CA",
+      "country": "USA",
+      "unemployment_rate": "6.9%",
+      "latitude": "37.639492",
+      "longitude": "-121.015099"
+    },
+    {
+      "id": "7",
+      "city": "Madera",
+      "state": "California",
+      "state_code": "CA",
+      "country": "USA",
+      "unemployment_rate": "7.9%",
+      "latitude": "36.959530",
+      "longitude": "-120.062866"
+    },
+    {
+      "id": "8",
+      "city": "Yuba city",
+      "state": "California",
+      "state_code": "CA",
+      "country": "USA",
+      "unemployment_rate": "8.0%",
+      "latitude": "39.136986",
+      "longitude": "-121.607841"
+    },
+    {
+      "id": "9",
+      "city": "Fresno",
+      "state": "California",
+      "state_code": "CA",
+      "country": "USA",
+      "unemployment_rate": "8.2%",
+      "latitude": "36.746841",
+      "longitude": "-119.772591"
+    },
+    {
+      "id": "10",
+      "city": "Salinas",
+      "state": "California",
+      "state_code": "CA",
+      "country": "USA",
+      "unemployment_rate": "8.6%",
+      "latitude": "36.677738",
+      "longitude": "-121.655502"
+    },
+    {
+      "id": "11",
+      "city": "El Centro",
+      "state": "California",
+      "state_code": "CA",
+      "country": "USA",
+      "unemployment_rate": "18.3%",
+      "latitude": "32.793877",
+      "longitude": "-115.561516"
+    },
+    {
+      "id": "12",
+      "city": "Visalia-Porterville",
+      "state": "California",
+      "state_code": "CA",
+      "country": "USA",
+      "unemployment_rate": "11.2%",
+      "latitude": "36.06523",
+      "longitude": "-119.0167679"
+    },
+    {
+      "id": "13",
+      "city": "Redding",
+      "state": "California",
+      "state_code": "CA",
+      "country": "USA",
+      "unemployment_rate": "5.6%",
+      "latitude": "40.586540",
+      "longitude": "-122.391678"
+    },
+    {
+      "id": "14",
+      "city": "Stockton",
+      "state": "California",
+      "state_code": "CA",
+      "country": "USA",
+      "unemployment_rate": "6.8%",
+      "latitude": "37.961632",
+      "longitude": "-121.275604"
+    },
+    {
+      "id": "15",
+      "city": "Hanford-Corcoran",
+      "state": "California",
+      "state_code": "CA",
+      "country": "USA",
+      "unemployment_rate": "9.1%",
+      "latitude": "36.327728",
+      "longitude": "-119.645912"
+    }
+  ],
+  "around_temperatureData": [
+    {
+      "measurementUnit": "40° F",
+      "description": "Moderate cold at 4th Street",
+      "location": "Madera, CA",
+      "coordinates": "33.3382° N, 112° S",
+      "latitude": "35.3489",
+      "longitude": "-119.0143",
+      "polygonData": {
+        "type": "FeatureCollection",
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "color": "#3869A6"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [-120.37970208235652, 37.20569859871348],
+                  [-120.39366378612071, 37.098870401290725],
+                  [-120.38528676386213, 36.90932549179067],
+                  [-120.24148121509066, 36.75063781218584],
+                  [-120.00692459185157, 36.74616297155309],
+                  [-119.7458407314601, 36.74616212333504],
+                  [-119.99435905846369, 37.04428535194212],
+                  [-120.1786535481514, 37.19568986751359],
+                  [-120.29593185977109, 37.233493665773324],
+                  [-120.37970208235652, 37.20569859871348]
+                ]
+              ],
+              "type": "Polygon"
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "color": "#86C94F"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [-120.35736335633376, 37.34790127242263],
+                  [-120.39226761574437, 37.30460235367478],
+                  [-120.38249442310918, 37.21459413448932],
+                  [-120.06835608841395, 37.09441550974117],
+                  [-119.78772584275296, 36.74840042448946],
+                  [-119.51826496010325, 36.74951912649276],
+                  [-119.2529925885828, 36.77300810061847],
+                  [-119.61180837532356, 37.02533850325527],
+                  [-119.74444456108378, 37.26238966925018],
+                  [-119.80029137614082, 37.39339373998487],
+                  [-120.06835608841394, 37.39672137390181],
+                  [-120.35736335633376, 37.34790127242263]
+                ]
+              ],
+              "type": "Polygon"
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "color": "#387F87"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [-119.692786257156, 37.40115897416601],
+                  [-119.80168754651713, 37.403377478841605],
+                  [-119.79051818350561, 37.32567781289923],
+                  [-119.59365816043005, 36.98628599792036],
+                  [-119.25299258858277, 36.771844658509565],
+                  [-119.11197938056397, 36.77631832470013],
+                  [-119.11197938056371, 36.833324620710854],
+                  [-119.16643002524468, 36.831117737673026],
+                  [-119.5182649601032, 37.0498271164803],
+                  [-119.692786257156, 37.40115897416601]
+                ]
+              ],
+              "type": "Polygon"
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "color": "#7AC1D7"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [-119.5755079455366, 37.385628686342514],
+                  [-119.69278625715602, 37.392284495849935],
+                  [-119.60622369381792, 37.15230336573153],
+                  [-119.51826496010325, 37.018650251583324],
+                  [-119.28091599611118, 36.87806102029289],
+                  [-119.15246832148024, 36.81661139227164],
+                  [-119.11337555094033, 36.8300206409255],
+                  [-119.11616789169327, 37.01753548572826],
+                  [-119.11896023244623, 37.24572025032565],
+                  [-119.12454491395185, 37.392284495849935],
+                  [-119.5755079455366, 37.385628686342514]
+                ]
+              ],
+              "type": "Polygon"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "around_rainData": [
+    {
+      "measurementUnit": "'0.01 inch'",
+      "description": "Low rainfall at 4th Street",
+      "location": "Madera, CA",
+      "coordinates": "33.2295° N, 112° S",
+      "latitude": "35.3489",
+      "longitude": "-119.0143",
+      "polygonData": {
+        "type": "FeatureCollection",
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "color": "#D69945",
+              "opacity": 0.89
+            },
+
+            "geometry": {
+              "coordinates": [
+                [
+                  [-120.2193735308127, 37.08806020925522],
+                  [-119.9863135733047, 36.85228857699313],
+                  [-119.97269318617758, 36.71775165950454],
+                  [-119.80016828256785, 36.710472666549265],
+                  [-119.60948286278864, 37.21953898302377],
+                  [-119.77746763735614, 37.28218320360033],
+                  [-120.113437186491, 37.26291588148338],
+                  [-120.29958247722753, 37.20025447361901],
+                  [-120.2193735308127, 37.08806020925522]
+                ]
+              ],
+              "type": "Polygon"
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "color": "#BAD543",
+              "opacity": 0.7
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [-120.0756026225868, 37.13030372660086],
+                  [-119.96966627826508, 36.99382211954327],
+                  [-119.94999238574823, 36.923674332778376],
+                  [-119.85313629951094, 36.93214387233803],
+                  [-119.77292735309612, 37.164084027491384],
+                  [-120.00144718156142, 37.154434189522064],
+                  [-120.0756026225868, 37.13030372660086]
+                ]
+              ],
+              "type": "Polygon"
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "color": "#86C94F",
+              "opacity": 0.7
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [-119.96815290191773, 37.09772186004916],
+                  [-119.92729174053636, 37.030095179204295],
+                  [-119.92426498784164, 36.972081482536765],
+                  [-119.8697834393331, 36.98175350580914],
+                  [-119.84556941777386, 37.10858480970221],
+                  [-119.93031849323137, 37.11099858695458],
+                  [-119.96815290191773, 37.09772186004916]
+                ]
+              ],
+              "type": "Polygon"
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "color": "rgba(122, 193, 215, 0.40)"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [-119.46654694532012, 37.22142206858034],
+                  [-119.54877577097801, 37.03427746933281],
+                  [-119.29909915488942, 36.965024253301266],
+                  [-119.0733436517192, 37.017566951272514],
+                  [-119.05390774747278, 37.22142206858034],
+                  [-119.19444428586988, 37.28211463443597],
+                  [-119.39627867612143, 37.26664862347131],
+                  [-119.46654694532012, 37.22142206858034]
+                ]
+              ],
+              "type": "Polygon"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "around_windData": [
+    {
+      "measurementUnit": "7 mph",
+      "additionalElement": {
+        "imgSrc": "https://cdn.gaiansolutions.com/618b6fdef5dacc0001a6b1b0/618b6fdef5dacc0001a6b1b0/618b6fdef5dacc0001a6b1b0/0043c3c6-3f5f-478f-9295-fdbf79cd2140_$$Navigation%20Arrow%203.png",
+        "imgAlt": "arrow",
+        "direction": "N"
+      },
+      "description": "Gentle breeze at 4th Street",
+      "location": "Madera, CA",
+      "coordinates": "33.0012° N, 112° S",
+      "latitude": "35.3489",
+      "longitude": "-119.0143",
+      "polygonData": {
+        "type": "FeatureCollection",
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "color": "rgba(214, 153, 69, 0.80)"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [-119.34907476299564, 37.125103787287046],
+                  [-119.35066726323493, 37.12266774389735],
+                  [-119.52546894042176, 37.01441933499322],
+                  [-119.49749544223724, 36.817767877721636],
+                  [-119.41153778696446, 36.73874319904702],
+                  [-119.15517341407842, 36.745022916388166],
+                  [-119.15217951159853, 36.836347666656096],
+                  [-119.12681921148594, 36.961722454035126],
+                  [-119.1467501909619, 37.10566800860198],
+                  [-119.2408845058691, 37.129503748437116],
+                  [-119.34907476299564, 37.125103787287046]
+                ]
+              ],
+              "type": "Polygon"
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "color": "rgba(229, 117, 160, 0.70)"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [-120.35036069919659, 37.342302245524124],
+                  [-120.3852649586072, 37.29900332677627],
+                  [-120.375491765972, 37.20899510759081],
+                  [-120.00534826710876, 36.85413096464025],
+                  [-119.78072318561578, 36.74280139759095],
+                  [-119.51126230296607, 36.74392009959425],
+                  [-119.22638249146166, 36.76179879451898],
+                  [-119.48436001542893, 36.86301393145776],
+                  [-119.78365944105138, 37.10613916669173],
+                  [-119.87031794751124, 37.36664676680516],
+                  [-120.06135343127676, 37.391122347003304],
+                  [-120.35036069919659, 37.342302245524124]
+                ]
+              ],
+              "type": "Polygon"
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "color": "rgba(68, 146, 171, 0.89)"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [-120.37970208235652, 37.20569859871348],
+                  [-120.39366378612071, 37.098870401290725],
+                  [-120.38528676386213, 36.90932549179067],
+                  [-120.24148121509066, 36.75063781218584],
+                  [-120.00692459185157, 36.74616297155309],
+                  [-119.7458407314601, 36.74616212333504],
+                  [-120.08045954225588, 36.93569495115932],
+                  [-120.1786535481514, 37.19568986751359],
+                  [-120.29593185977109, 37.233493665773324],
+                  [-120.37970208235652, 37.20569859871348]
+                ]
+              ],
+              "type": "Polygon"
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "color": "rgba(214, 153, 69, 0.80)"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [-119.61015490293853, 37.38000285921372],
+                  [-119.83389976934755, 37.39112466931975],
+                  [-119.89694112778518, 37.376760175775],
+                  [-119.88435378914222, 37.2933712381504],
+                  [-119.75651261762869, 37.027542301114856],
+                  [-119.57265018901849, 36.883348811287235],
+                  [-119.40565051417066, 36.890761384270434],
+                  [-119.41729523173973, 36.99037479449575],
+                  [-119.41875895805465, 36.98668441464194],
+                  [-119.41852568217907, 36.99133931736958],
+                  [-119.29698099457165, 37.06551771324635],
+                  [-119.37443792310653, 37.33250240923554],
+                  [-119.61015490293853, 37.38000285921372]
+                ]
+              ],
+              "type": "Polygon"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "around_snowData": [
+    {
+      "measurementUnit": "40 inch",
+      "description": "Heavy Snowfall at 4th Street",
+      "location": "Madera, CA",
+      "coordinates": "33.4484° N, 112° S",
+      "latitude": "35.3489",
+      "longitude": "-119.0143",
+      "polygonData": {
+        "type": "FeatureCollection",
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "color": "#ECECEC",
+              "opacity": 0.89
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [-120.2193735308127, 37.08806020925522],
+                  [-119.9863135733047, 36.85228857699313],
+                  [-119.97269318617758, 36.71775165950454],
+                  [-119.80016828256785, 36.710472666549265],
+                  [-119.60948286278864, 37.21953898302377],
+                  [-119.77746763735614, 37.28218320360033],
+                  [-120.113437186491, 37.26291588148338],
+                  [-120.29958247722753, 37.20025447361901],
+                  [-120.2193735308127, 37.08806020925522]
+                ]
+              ],
+              "type": "Polygon"
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "color": "#5596CA",
+              "opacity": 0.7
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [-120.0756026225868, 37.13030372660086],
+                  [-119.96966627826508, 36.99382211954327],
+                  [-119.94999238574823, 36.923674332778376],
+                  [-119.85313629951094, 36.93214387233803],
+                  [-119.77292735309612, 37.164084027491384],
+                  [-120.00144718156142, 37.154434189522064],
+                  [-120.0756026225868, 37.13030372660086]
+                ]
+              ],
+              "type": "Polygon"
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "color": "#B700B7",
+              "opacity": 0.7
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [-119.96815290191773, 37.09772186004916],
+                  [-119.92729174053636, 37.030095179204295],
+                  [-119.92426498784164, 36.972081482536765],
+                  [-119.8697834393331, 36.98175350580914],
+                  [-119.84556941777386, 37.10858480970221],
+                  [-119.93031849323137, 37.11099858695458],
+                  [-119.96815290191773, 37.09772186004916]
+                ]
+              ],
+              "type": "Polygon"
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "color": "rgba(122, 193, 215, 0.33)"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [-119.46654694532012, 37.22142206858034],
+                  [-119.54877577097801, 37.03427746933281],
+                  [-119.29909915488942, 36.965024253301266],
+                  [-119.0733436517192, 37.017566951272514],
+                  [-119.05390774747278, 37.22142206858034],
+                  [-119.19444428586988, 37.28211463443597],
+                  [-119.39627867612143, 37.26664862347131],
+                  [-119.46654694532012, 37.22142206858034]
+                ]
+              ],
+              "type": "Polygon"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "around_airQualityData": [
+    {
+      "measurementUnit": "120 AQI",
+      "description": "Unhealthy for sensitive groups",
+      "location": "Hyde St, CA",
+      "coordinates": "33.7194° N, 112° S",
+      "latitude": "35.3489",
+      "longitude": "-119.0143",
+      "polygonData": {
+        "type": "FeatureCollection",
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "color": "#D69945",
+              "opacity": 0.89
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [-120.2193735308127, 37.08806020925522],
+                  [-119.9863135733047, 36.85228857699313],
+                  [-119.97269318617758, 36.71775165950454],
+                  [-119.80016828256785, 36.710472666549265],
+                  [-119.60948286278864, 37.21953898302377],
+                  [-119.77746763735614, 37.28218320360033],
+                  [-120.113437186491, 37.26291588148338],
+                  [-120.29958247722753, 37.20025447361901],
+                  [-120.2193735308127, 37.08806020925522]
+                ]
+              ],
+              "type": "Polygon"
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "color": "#BAD543",
+              "opacity": 0.7
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [-120.0756026225868, 37.13030372660086],
+                  [-119.96966627826508, 36.99382211954327],
+                  [-119.94999238574823, 36.923674332778376],
+                  [-119.85313629951094, 36.93214387233803],
+                  [-119.77292735309612, 37.164084027491384],
+                  [-120.00144718156142, 37.154434189522064],
+                  [-120.0756026225868, 37.13030372660086]
+                ]
+              ],
+              "type": "Polygon"
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "color": "#86C94F",
+              "opacity": 0.7
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [-119.96815290191773, 37.09772186004916],
+                  [-119.92729174053636, 37.030095179204295],
+                  [-119.92426498784164, 36.972081482536765],
+                  [-119.8697834393331, 36.98175350580914],
+                  [-119.84556941777386, 37.10858480970221],
+                  [-119.93031849323137, 37.11099858695458],
+                  [-119.96815290191773, 37.09772186004916]
+                ]
+              ],
+              "type": "Polygon"
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "color": "#4492AB",
+              "blur": 17
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [-119.5259859057837, 37.10199851203329],
+                  [-119.4681183755509, 37.055835353074755],
+                  [-119.43613895094859, 37.016938369714495],
+                  [-119.37218010174334, 37.02180171860783],
+                  [-119.31888106073919, 37.16027210249668],
+                  [-119.41481933454672, 37.17725943566988],
+                  [-119.49705214066746, 37.162698831006125],
+                  [-119.5259859057837, 37.10199851203329]
+                ]
+              ],
+              "type": "Polygon"
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "color": "#CD5863",
+              "blur": 17
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [-119.18182638387144, 36.95367623201359],
+                  [-119.13309583209625, 36.88306179926475],
+                  [-119.11786753466652, 36.82091579000809],
+                  [-119.03715755828867, 36.82701076960096],
+                  [-118.99756398497135, 36.96097744084402],
+                  [-119.07979679109206, 36.987742550249564],
+                  [-119.14527847003988, 36.976794325041396],
+                  [-119.18182638387144, 36.95367623201359]
+                ]
+              ],
+              "type": "Polygon"
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "color": "#4492AB",
+              "blur": 17
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [-119.3264952094542, 36.758719274608666],
+                  [-119.26253636024926, 36.673269332442274],
+                  [-119.19248619207221, 36.67571207817116],
+                  [-119.151369789012, 36.78067675104403],
+                  [-119.2198971274459, 36.80262793865441],
+                  [-119.2929929551087, 36.79043361090886],
+                  [-119.3264952094542, 36.758719274608666]
+                ]
+              ],
+              "type": "Polygon"
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "color": "#4492AB"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [-119.15289261875488, 37.26820733798033],
+                  [-119.09654791826466, 37.21365287835118],
+                  [-119.07827396134918, 37.15420423879624],
+                  [-118.99451832548529, 37.16269976622176],
+                  [-118.96863021985479, 37.286383381816606],
+                  [-119.03715755828867, 37.297286901301135],
+                  [-119.10720772646573, 37.28880652270837],
+                  [-119.15289261875488, 37.26820733798033]
+                ]
+              ],
+              "type": "Polygon"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "around_networksData": [
+    {
+      "network_type": "4G",
+      "street": "Main Street",
+      "city": "Bakersfield",
+      "state": "California",
+      "state_code": "CA",
+      "zip_code": "93301",
+      "latitude": 35.3751,
+      "longitude": -119.0187,
+      "altitude": 100
+    },
+    {
+      "network_type": "3G",
+      "street": "Broadway Avenue",
+      "city": "Bakersfield",
+      "state": "California",
+      "state_code": "CA",
+      "zip_code": "93302",
+      "latitude": 35.3733,
+      "longitude": -119.0187,
+      "altitude": 90
+    },
+    {
+      "network_type": "5G",
+      "street": "Oak Street",
+      "city": "Bakersfield",
+      "state": "California",
+      "state_code": "CA",
+      "zip_code": "93303",
+      "latitude": 35.3718,
+      "longitude": -119.0187,
+      "altitude": 110
+    },
+    {
+      "network_type": "2G",
+      "street": "Elm Avenue",
+      "city": "Bakersfield",
+      "state": "California",
+      "state_code": "CA",
+      "zip_code": "93304",
+      "latitude": 35.3701,
+      "longitude": -119.0187,
+      "altitude": 80
+    },
+    {
+      "network_type": "4G",
+      "street": "Cedar Street",
+      "city": "Bakersfield",
+      "state": "California",
+      "state_code": "CA",
+      "zip_code": "93305",
+      "latitude": 35.3683,
+      "longitude": -119.0187,
+      "altitude": 95
+    },
+    {
+      "network_type": "3G",
+      "street": "Pine Avenue",
+      "city": "Bakersfield",
+      "state": "California",
+      "state_code": "CA",
+      "zip_code": "93306",
+      "latitude": 35.3668,
+      "longitude": -119.0187,
+      "altitude": 85
+    },
+    {
+      "network_type": "5G",
+      "street": "Maple Street",
+      "city": "Bakersfield",
+      "state": "California",
+      "state_code": "CA",
+      "zip_code": "93307",
+      "latitude": 35.365,
+      "longitude": -119.0187,
+      "altitude": 105
+    },
+    {
+      "network_type": "2G",
+      "street": "Palm Avenue",
+      "city": "Bakersfield",
+      "state": "California",
+      "state_code": "CA",
+      "zip_code": "93308",
+      "latitude": 35.3633,
+      "longitude": -119.0187,
+      "altitude": 75
+    },
+    {
+      "network_type": "4G",
+      "street": "Willow Street",
+      "city": "Bakersfield",
+      "state": "California",
+      "state_code": "CA",
+      "zip_code": "93309",
+      "latitude": 35.3616,
+      "longitude": -119.0187,
+      "altitude": 100
+    },
+    {
+      "network_type": "3G",
+      "street": "Spruce Avenue",
+      "city": "Bakersfield",
+      "state": "California",
+      "state_code": "CA",
+      "zip_code": "93310",
+      "latitude": 35.36,
+      "longitude": -119.0187,
+      "altitude": 90
+    },
+    {
+      "network_type": "2G",
+      "street": "Alexander Falls Ave",
+      "city": "Bakersfield",
+      "state": "California",
+      "state_code": "CA",
+      "zip_code": "93311",
+      "latitude": 35.375,
+      "longitude": -119.018,
+      "altitude": 120
+    }
+  ],
+  "around_liveSocialMediaData": [
+    {
+      "id": "1",
+      "icon_url": "/svgs/CarForSale.svg",
+      "title": "Car for Sale",
+      "price": "$5,500 (Non negotiable)",
+      "model": "2006 Volkswagen Touareg",
+      "type": "Sports Utility 4D",
+      "seller": "Red Fleet auto sales-California’s trusted car dealer",
+      "phone_number": "(702) 414-1000",
+      "miles_driven": "121k miles driven",
+      "latitude": "35.3833",
+      "longitude": "-119.0187",
+      "state": "California",
+      "state_code": "CA",
+      "zip_code": "93301"
+    },
+    {
+      "id": "2",
+      "icon_url": "/svgs/ClothesPattern.svg",
+      "title": "Tire Rentals",
+      "price": "$199-$399",
+      "description": "Renting is the new buying, rent for upto 7 days",
+      "types": "Indian designer wear for men and women.",
+      "phone_number": "(702) 414-1000",
+      "latitude": "35.3489",
+      "longitude": "-119.0560",
+      "state": "California",
+      "state_code": "CA",
+      "zip_code": "93301"
+    },
+    {
+      "id": "3",
+      "icon_url": "/svgs/Burglary.svg",
+      "title": "Burglary",
+      "time": "Nov 26, 2023 | 8:00PM",
+      "description": "Stole 40 computers in Maria Hospital",
+      "street": "800 Block S",
+      "state_code": "CA",
+      "state": "California",
+      "latitude": "35.3933",
+      "longitude": "-119.0187",
+      "zip_code": "93301"
+    },
+    {
+      "id": "4",
+      "icon_url": "/svgs/CarForSale.svg",
+      "title": "Car for sale",
+      "price": "$4,000",
+      "model": "2010 Mercedes E Class",
+      "type": "Sedan",
+      "seller": "Best Auto Dealership",
+      "phone_number": "(661) 555-1234",
+      "miles_driven": "100K miles",
+      "latitude": "35.3528",
+      "longitude": "-119.0314",
+      "street": "2317, L St Bakersfield",
+      "state": "California",
+      "engine_type": "Gas",
+      "state_code": "CA",
+      "zip_code": "93301",
+      "rating": "3.5",
+      "review": "101"
+    },
+    {
+      "id": "5",
+      "icon_url": "/svgs/ClothesPattern.svg",
+      "title": "Tire Services",
+      "price": "$50-$100",
+      "description": "Offering tire repair and replacement services",
+      "types": "Automotive Services",
+      "phone_number": "(661) 555-5678",
+      "latitude": "35.3679",
+      "longitude": "-119.0508",
+      "state": "California",
+      "state_code": "CA",
+      "zip_code": "93301"
+    },
+    {
+      "id": "6",
+      "icon_url": "/svgs/Safety.svg",
+      "title": "Security Alert",
+      "time": "Dec 10, 2023 | 9:30AM",
+      "description": "Attempted break-in at local convenience store",
+      "street": "1000 Block W",
+      "state_code": "CA",
+      "state": "California",
+      "latitude": "35.3645",
+      "longitude": "-119.0143",
+      "zip_code": "93301"
+    },
+    {
+      "id": "7",
+      "icon_url": "/svgs/CarForSale.svg",
+      "title": "Car Maintenance Service",
+      "price": "$75",
+      "description": "Full car maintenance package, including oil change and filter replacement",
+      "types": "Automotive Services",
+      "phone_number": "(661) 555-9876",
+      "latitude": "35.3756",
+      "longitude": "-119.0241",
+      "state": "California",
+      "state_code": "CA",
+      "zip_code": "93301"
+    }
+  ]
+}
